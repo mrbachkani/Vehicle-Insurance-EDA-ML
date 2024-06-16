@@ -17,6 +17,7 @@ Develop a predictive model to accurately estimate the likelihood of vehicle insu
 
 ### c. Feature Selection and Transformation
 1. Feature Selection
+2. Feature Transformation
 
 ### d. Model Building
 1. Data Splitting (Train and Test Datasets)
